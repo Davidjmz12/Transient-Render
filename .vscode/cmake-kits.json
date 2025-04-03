@@ -1,0 +1,8 @@
+[
+    {
+      "name": "Default",
+      "preferredGenerator": {
+        "name": "Ninja"
+      }
+    }
+  ]

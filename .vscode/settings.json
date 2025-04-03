@@ -1,0 +1,12 @@
+{
+    "cmake.buildDirectory": "${workspaceFolder}/mitsuba3/build",
+    "cmake.generator": "Ninja",
+    "cmake.sourceDirectory": "${workspaceFolder}/mitsuba3",
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+      "algorithm": "cpp"
+    },
+    "cmake.configureSettings": {
+      "CMAKE_BUILD_TYPE": "Release"
+    },
+  }
