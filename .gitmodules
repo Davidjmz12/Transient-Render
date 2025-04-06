@@ -1,0 +1,7 @@
+[submodule "mitransient"]
+    path = mitransient
+    url = https://github.com/Davidjmz12/mitransient.git
+
+[submodule "mitsuba3"]
+    path = mitsuba3
+    url = https://github.com/Davidjmz12/mitsuba3.git
